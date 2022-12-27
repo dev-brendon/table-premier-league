@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: GTWalsheim-Rg, GTWalsheim-Md, Rubik, system, Arial, sans-serif;
+    background-color: #F5F5F5;
+}
+
+.container {
+    width: 1280px;
+    height: 1150px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 30px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 25px 25px;
+}
+
+.vij-e-plote {
+    width: 1228px;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+#img {
+    height: 25px;
+    align-items: center;
+}
+
+img {
+    height: 28px;
+}
+
+.premiera {
+    float: right;
+    margin: 15px;
+    height: 55px;
+    padding: 8px;
+    border: 2px solid #c3c3c3;
+    border-radius: 50%;
+}
+
+#klubi {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.team {
+    text-align: center;
+    font-weight: 200;
+    color: #7B8288;
+}
+
+.arsenal td {
+    text-align: center;
+    width: 40px;
+    font-size: 15px;
+}
+
+.fitore {
+    background-color: #00985F;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+
+.barazim {
+    background-color: #7B8288;
+    color: white;
+    text-align: center;
+    border-radius: 7px;
+    font-size: 12px;
+}
+
+.humbje {
+    background-color: #E55E5B;
+    color: white;
+    text-align: center;
+    border-radius: 7px;
+    font-size: 12px;
+}
+
+ul,
+li,
+i {
+    display: flex;
+    margin: 0 18px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #7B8288;
+}
+
+.css-mzkqno-qualIcon {
+    display: block;
+    width: 8px;
+    height: 8px;
+    background-color: rgb(42, 213, 114);
+    border-radius: 3px;
+    margin: 4.5px 10px 0 0;
+}
+
+.css-xfk2sj-qualIcon {
+    display: block;
+    width: 8px;
+    height: 8px;
+    background-color: rgb(0, 70, 167);
+    border-radius: 3px;
+    margin: 4.5px 10px 0 0;
+}
+
+.css-14g2zr8-qualIcon {
+    display: block;
+    width: 8px;
+    height: 8px;
+    background-color: rgb(255, 70, 70);
+    border-radius: 3px;
+    margin: 4.5px 10px 0 0;
+}
+
+.green-line {
+    border-left: 3px solid #2AD572;
+}
+
+.red-line {
+    border-left: 3px solid #FF4646;
+}
+
+.blue-line {
+    border-left: 3px solid #0046A7;
+}
